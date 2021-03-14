@@ -1,0 +1,17 @@
+16
+martelo
+macaco
+melancia
+morango
+batata
+arroz
+arvore
+carro
+bicicleta
+celular
+televisao
+marreta
+caminhao
+mesa
+moto
+abacaxi
